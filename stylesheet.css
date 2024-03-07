@@ -1,0 +1,30 @@
+.introduction{
+    text-align: center;
+    text-emphasis-color: orange;
+    color: brown;
+}
+
+a:hover{
+    color:orange
+}
+
+#linkedInImg{
+    margin: 50px;
+    padding: auto;
+    width: 300px;
+    height: 300px;
+}
+
+h1{
+    text-align: center;
+    color: greenyellow;
+}
+
+.links-section {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: lightgray; 
+    text-align: center; 
+}
+
+
